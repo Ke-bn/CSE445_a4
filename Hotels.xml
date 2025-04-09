@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+  <Hotel>
+    <Name>Comfort Suites Mesa</Name>
+    <Phone>480-123-9876</Phone>
+    <Phone>480-321-6789</Phone>
+    <Address>
+      <Number>33</Number>
+      <Street>W University Dr</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85201</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Days Inn Mesa</Name>
+    <Phone>480-111-2222</Phone>
+    <Address>
+      <Number>77</Number>
+      <Street>E Main St</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85203</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Motel 6 Mesa North</Name>
+    <Phone>480-765-4321</Phone>
+    <Phone>800-654-3210</Phone>
+    <Address>
+      <Number>1455</Number>
+      <Street>S Country Club Dr</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85210</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>La Quinta Inn & Suites Mesa</Name>
+    <Phone>480-123-4567</Phone>
+    <Address>
+      <Number>902</Number>
+      <Street>W Grove Ave</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85210</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Holiday Inn Mesa</Name>
+    <Phone>480-876-5432</Phone>
+    <Address>
+      <Number>1600</Number>
+      <Street>S Country Club Dr</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85210</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hyatt Place Mesa</Name>
+    <Phone>480-543-2100</Phone>
+    <Address>
+      <Number>1422</Number>
+      <Street>W Bass Pro Dr</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85201</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Super 8 Mesa</Name>
+    <Phone>480-111-0000</Phone>
+    <Address>
+      <Number>1550</Number>
+      <Street>S Gilbert Rd</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85204</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Residence Inn Mesa</Name>
+    <Phone>480-999-9999</Phone>
+    <Address>
+      <Number>941</Number>
+      <Street>W Grove Ave</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85210</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Courtyard Mesa</Name>
+    <Phone>480-000-8888</Phone>
+    <Address>
+      <Number>1221</Number>
+      <Street>S Westwood</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85210</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Extended Stay America Mesa</Name>
+    <Phone>480-777-5555</Phone>
+    <Address>
+      <Number>455</Number>
+      <Street>W Baseline Rd</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85210</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
